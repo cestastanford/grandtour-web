@@ -6,6 +6,7 @@ order: 3
 
 ### Scholarly publications
 
+<<<<<<< HEAD
 - Giovanna Ceserani, Giorgio Caviglia, Nicole Coleman, Thea De Armond, Sarah Murray, Molly Taylor-Poleskey, ‘British Travelers in 18th-century Italy: The Grand Tour and the Profession of Architecture,’ under review for *American Historical Review* digital forum.
 
 - Sarah Murray, ‘Spatial Analysis and Humanities Data: A Case Study from the Grand Tour Travelers Project,’ in J.Coolidge (ed.) *A CESTA Anthology* (Stanford, 2013).
@@ -42,4 +43,6 @@ Research project featured in La Repubblica (March 30th 2014)
 Intelligent Life (The Economist; Nov/Dec 2014 http://moreintelligentlife.com/content/ideas/john-hooper/rewriting-history)
  
 [Stanford Daily](http://www.stanforddaily.com/2013/04/24/digital-humanities-project-maps-european-intellectual-networks/)
+=======
+>>>>>>> origin/master
 
