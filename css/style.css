@@ -771,7 +771,7 @@ address {
 }
 .media,
 .media-body {
-  overflow: hidden;
+  /*overflow: hidden;*/
   zoom: 1;
 }
 .media-object {
