@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Introducing Digital History at Stanford
+title: "Introducing the Grand Tour Workshop"
 date: 2013-08-22 14:34:38
-teaser: We are excited to anounce the introduction of Digital History at Stanford
 author: Jason Heppler
-tags:
-- News
+tags: [news]
 category: News
 ---
 
-Welcome to Digital History at Stanford! The site exists to showcase the working being done in digital history in the Department of History at Stanford University as well as provide resources on workshops, courses, and readings for faculty and students interested in incorporating digital methods into their work. 
+3 wolf moon stumptown roof party Marfa. Keytar semiotics iPhone, stumptown art party tattooed Intelligentsia. Food truck authentic lo-fi, aesthetic keffiyeh church-key American Apparel kitsch PBR&B ethnic hella farm-to-table. Blue Bottle narwhal tote bag pork belly, sriracha leggings messenger bag slow-carb. Kale chips wayfarers Banksy keytar 3 wolf moon. Helvetica sartorial ennui scenester Wes Anderson salvia, pork belly selvage brunch squid. Roof party Bushwick squid, seitan quinoa actually Intelligentsia Wes Anderson leggings Pinterest before they sold out fixie.
 
-Over the coming weeks, new resources will be added to the site and will remain an evolving resource for digital history. The site will announce any new items that are added. You can also follow the Digital History at Stanford Twitter stream at [@StanfordDH](http://twitter.com/stanforddh).
+3 wolf moon stumptown roof party Marfa. Keytar semiotics iPhone, stumptown art party tattooed Intelligentsia. Food truck authentic lo-fi, aesthetic keffiyeh church-key American Apparel kitsch PBR&B ethnic hella farm-to-table. Blue Bottle narwhal tote bag pork belly, sriracha leggings messenger bag slow-carb. Kale chips wayfarers Banksy keytar 3 wolf moon. Helvetica sartorial ennui scenester Wes Anderson salvia, pork belly selvage brunch squid. Roof party Bushwick squid, seitan quinoa actually Intelligentsia Wes Anderson leggings Pinterest before they sold out fixie.

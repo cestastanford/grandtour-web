@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Collaborators
+title: Team
 order: 2
 ---
 
