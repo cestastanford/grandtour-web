@@ -209,12 +209,14 @@
   max-height: 15em;
   padding: 1.1em 1.3em 1.2em;
   box-sizing: inherit;
-  overflow: auto;
   -webkit-overflow-scrolling: touch;
   background: #fafafa;
   border-radius: 0.5em;
   -webkit-font-smoothing: subpixel-antialiased;
   line-height: normal;
+}
+.bigfoot-footnote__content {
+  overflow-y: scroll;
 }
 .bigfoot-footnote__content img {
   max-width: 100%;
