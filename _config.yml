@@ -1,8 +1,12 @@
 # ----------------------- #
 #      Main Configs       #
 # ----------------------- #
+
 name:           The Grand Tour Project
-description:    "The Galileo Correspondence Project is a collaborative digital humanities research initiative to create a rich database from the work of a team of graduate student researchers, directed by Paula Findlen and Hannah Marcus, and ultimately a monograph about both the metadata and content of the letters of Galileo Galilei."
+
+name:           "Grand Tour Project"
+
+description:    "The Grand Tour Project is a collaborative digital humanities project dedicated to creating a searchable database based on John Ingamell's Dictionary of British and Irish Travelers to Italy"
 baseurl:
 
 # Options
