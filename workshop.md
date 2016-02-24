@@ -17,7 +17,7 @@ Friday, March 4th and Saturday, March 5th 2016 <br>
 In the Stanford Humanities Center Board Room<br>
 424 Santa Teresa Street, Stanford, CA 94305<br>
  
-Lunch will be provided to those who RSVP by March 1st.</center>
+Lunch will be provided to those who [RSVP](https://docs.google.com/forms/d/1qD0fkG_vW_2to9EBpn988p1xREGcAz26dfwC-SJWbeU/viewform?c=0&w=1) by March 1st.</center>
  
 Participants: Malcolm Baker, John Brewer, Melissa Calaresu, Giorgio Caviglia, Jeffrey Collins, Paul Davis, Thea De Armond, Paula Findlen, Simon Macdonald, Rachel Midura, Grant Parker, Carole Paul, Sophus Reinhert, Catherine Sama, Rosemary Sweet, Elaine Treharne, Caroline Winterer,
  
